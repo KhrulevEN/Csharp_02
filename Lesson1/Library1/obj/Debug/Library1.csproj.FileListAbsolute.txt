@@ -1,0 +1,8 @@
+C:\sources\gb\charp#2\sandbox\Lesson1\Library1\bin\Debug\Library1.dll
+C:\sources\gb\charp#2\sandbox\Lesson1\Library1\bin\Debug\Library1.pdb
+C:\sources\gb\charp#2\sandbox\Lesson1\Library1\obj\Debug\Library1.csprojAssemblyReference.cache
+C:\sources\gb\charp#2\sandbox\Lesson1\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#2\sandbox\Lesson1\Library1\obj\Debug\Library1.dll
+C:\sources\gb\charp#2\sandbox\Lesson1\Library1\obj\Debug\Library1.pdb
+C:\gb\Csharp_02\Lesson1\Library1\obj\Debug\Library1.dll
+C:\gb\Csharp_02\Lesson1\Library1\obj\Debug\Library1.pdb
