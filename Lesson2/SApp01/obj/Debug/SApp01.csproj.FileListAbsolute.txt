@@ -1,0 +1,13 @@
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\bin\Debug\SApp01.exe.config
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\bin\Debug\SApp01.exe
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\bin\Debug\SApp01.pdb
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\obj\Debug\SApp01.csprojAssemblyReference.cache
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\obj\Debug\SApp01.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\obj\Debug\SApp01.exe
+C:\sources\gb\charp#2\sandbox\Lesson2\SApp01\obj\Debug\SApp01.pdb
+C:\gb\Csharp_02\Lesson2\SApp01\bin\Debug\SApp01.exe.config
+C:\gb\Csharp_02\Lesson2\SApp01\bin\Debug\SApp01.exe
+C:\gb\Csharp_02\Lesson2\SApp01\bin\Debug\SApp01.pdb
+C:\gb\Csharp_02\Lesson2\SApp01\obj\Debug\SApp01.csprojResolveAssemblyReference.cache
+C:\gb\Csharp_02\Lesson2\SApp01\obj\Debug\SApp01.exe
+C:\gb\Csharp_02\Lesson2\SApp01\obj\Debug\SApp01.pdb
